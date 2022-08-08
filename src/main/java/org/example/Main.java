@@ -21,5 +21,7 @@ public class Main {
 
         Gson g1 = new Gson();
         System.out.println(g1.toJson(a1));
+
+        MathLibrary ml2 = new MathLibrary();
     }
 }
